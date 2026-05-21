@@ -1,6 +1,2 @@
 # can-visualization-project
-used for testing and visualizing can signals
-
-# read me file is used as
-you can also write the information how to set up your project 
-you can also explain about your project 
+this is about my can visulisation project and below i have mentioned to how to setup the project 
